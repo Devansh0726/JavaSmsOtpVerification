@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43549974305",
+    "project_id": "javasmsotpverification",
+    "storage_bucket": "javasmsotpverification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43549974305:android:f94a99257bf2b7eaa26860",
+        "android_client_info": {
+          "package_name": "com.example.javasmsotpverification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAUuWfRBmzNhZT9HtV9Zf0lN7fE9Yvi6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
