@@ -108,6 +108,16 @@
 
         </FrameLayout>
 
+        <Button
+            android:id="@+id/btnGoogleOneTap"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/black"
+            android:textStyle="bold"
+            android:text="Google One Tap Sign In"/>
+
 
     </LinearLayout>
 
