@@ -70,6 +70,8 @@ public class NumberVerificationActivity extends AppCompatActivity {
                                     // with your backend.
                                     String email = credential.getId();
                                     Toast.makeText(getApplicationContext(), "Email: "+email, Toast.LENGTH_SHORT).show();
+                                    Intent intent = new Intent(NumberVerificationActivity.this, MainActivity.class);
+                                    startActivity(intent);
                                 }
                             } catch (ApiException e) {
 
